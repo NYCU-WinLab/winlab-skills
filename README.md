@@ -22,7 +22,7 @@ The WinLab Agent Skills collection.
 
 ## Available Skills
 
-### winlab-slides-guidelines
+### [winlab-slides-guidelines](winlab-slides-guidelines/SKILL.md)
 
 Review and guide WinLab presentation slides creation following WinLab guidelines.
 
@@ -39,6 +39,12 @@ Review and guide WinLab presentation slides creation following WinLab guidelines
 
 ```bash
 npx skills add nycu-winlab/winlab-skills
+```
+
+or using [bun](https://bun.sh/):
+
+```bash
+bunx skills add nycu-winlab/winlab-skills
 ```
 
 ## Usage
