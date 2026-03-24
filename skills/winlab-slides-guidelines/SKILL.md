@@ -1,6 +1,6 @@
 ---
 name: winlab-slides-guidelines
-description: Review and guide WinLab presentation slides creation following WinLab guidelines. Use when creating, reviewing, or editing presentation slides, PowerPoint files, or when the user asks about slide formatting, design standards, or presentation best practices for WinLab.
+description: This skill should be used when the user asks to "review my WinLab slides", "check WinLab slides formatting", "create WinLab presentation slides", "help me with WinLab slide design", or mentions WinLab slide guidelines, presentation standards, or PowerPoint formatting for WinLab.
 ---
 
 # WinLab Slides Guidelines

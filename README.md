@@ -22,7 +22,7 @@ The WinLab Agent Skills collection.
 
 ## Available Skills
 
-### [winlab-slides-guidelines](winlab-slides-guidelines/SKILL.md)
+### [winlab-slides-guidelines](skills/winlab-slides-guidelines/SKILL.md)
 
 Review and guide WinLab presentation slides creation following WinLab guidelines.
 
@@ -69,9 +69,9 @@ Check if my slides comply with WinLab standards
 
 To add a new WinLab-specific skill:
 
-1. Create a new skill directory in the project root (e.g., `skill-name/`)
-2. Create a `SKILL.md` file in the directory
-3. Follow the [Agent Skills format](https://agentskills.io/)
+1. Create a new skill directory under `skills/` (e.g., `skills/skill-name/`)
+2. Create a `SKILL.md` file in the directory (frontmatter `name` must match directory name)
+3. Follow the [Agent Skills format](https://agentskills.io/specification)
 4. Update the skill list in this README
 
 ## Resources
