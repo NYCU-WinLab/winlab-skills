@@ -16,6 +16,7 @@ All skills live under the `skills/` directory (the standard location scanned by 
 
 Current skills:
 - `skills/winlab-slides-guidelines/` — Presentation slide review guidelines using RFC 2119 keywords
+- `skills/english-writing-review/` — English writing review for academic papers and slides (grammar, readability, word choice, conciseness)
 
 ## Adding a New Skill
 
