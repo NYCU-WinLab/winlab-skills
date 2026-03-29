@@ -35,6 +35,20 @@ Review and guide WinLab presentation slides creation following WinLab guidelines
 - Check my WinLab slides formatting
 - Help me create WinLab slides
 
+### [english-writing-review](skills/english-writing-review/SKILL.md)
+
+Review English writing in technical papers and presentation slides, catching grammar errors, readability issues, and word misuse common among Chinese-speaking researchers.
+
+**Use when:**
+
+- Reviewing or proofreading English sentences in academic papers
+- Checking English text in presentation slides
+- Asking to improve, polish, or fix English writing
+- Review my English writing
+- Check my paper sentences
+- Help me improve this paragraph
+- Proofread my abstract / introduction / conclusion
+
 ## Installation
 
 ```bash
