@@ -49,6 +49,16 @@ Review English writing in technical papers and presentation slides, catching gra
 - Help me improve this paragraph
 - Proofread my abstract / introduction / conclusion
 
+### [cc](skills/cc/SKILL.md)
+
+Review articles, slides, and reports from CC's (建超) perspective — clear structure, no fluff, direct language.
+
+**Use when:**
+
+- Reviewing articles, reports, or documentation
+- Checking if writing is clear and well-structured
+- cc review, 幫我看文章, 幫我看投影片, 老師會怎麼看
+
 ## Installation
 
 ```bash
