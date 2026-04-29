@@ -17,6 +17,8 @@ All skills live under the `skills/` directory (the standard location scanned by 
 Current skills:
 - `skills/winlab-slides-guidelines/` — Presentation slide review guidelines using RFC 2119 keywords
 - `skills/english-writing-review/` — English writing review for academic papers and slides (grammar, readability, word choice, conciseness)
+- `skills/cc/` — Article/slide review from 建超's perspective
+- `skills/prplos/` — prplOS / prplmesh AP operations field manual (TR-181 datamodel, console workflow, common traps)
 
 ## Adding a New Skill
 

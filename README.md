@@ -59,6 +59,18 @@ Review articles, slides, and reports from CC's (建超) perspective — clear st
 - Checking if writing is clear and well-structured
 - cc review, 幫我看文章, 幫我看投影片, 老師會怎麼看
 
+### [prplos](skills/prplos/SKILL.md)
+
+Field manual for configuring prplOS / prplmesh-based access points (WiFi 7 reference platforms) via serial console. Captures TR-181 / amx datamodel API, daemon topology, and the non-obvious traps.
+
+**Use when:**
+
+- Working with any prplOS device (typically MaxLinear / Genexis / SoftAtHome WiFi 7 reference platform APs)
+- Configuring an AP via USB-serial console (`ubus call`, `ubus-cli`, BusyBox shell)
+- Debugging "client cannot join", "no internet after associating", or "SSID keeps reverting"
+- Doing spectrum scan / channel selection on prplOS
+- Working with `beerocks` (prplmesh), `wld`, or hostapd runtime config
+
 ## Installation
 
 ```bash
