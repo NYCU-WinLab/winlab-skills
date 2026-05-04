@@ -30,6 +30,25 @@ When reviewing slides, interpret these keywords as defined in RFC 2119:
 - **SHOULD** group related content together on the same slide or adjacent slides
 - **SHOULD** reorganize content for presentation format (presentations cannot be read like articles with back-and-forth referencing)
 
+## Context Before Detail
+
+Audience needs the *why* before they care about the *what* and *how*.
+
+- **MUST** establish context (background, motivation, the problem being solved) before diving into details, methods, or results — set up cause and effect first
+- **MUST NOT** jump straight into implementation, numbers, or results without explaining what triggered the work or what question it answers
+- **SHOULD** lead each topic with: what was the situation → what was the problem → what was decided/done → what was the outcome
+- **SHOULD** make the connection between sequential slides explicit so the audience can follow the chain of reasoning
+
+## Make the Point Obvious
+
+The audience reads each slide for a few seconds. The key point must land in those seconds.
+
+- **MUST** make the main takeaway of each slide visually or structurally obvious — bold, color, callout box, position, or a one-line summary at the top
+- **MUST NOT** bury the key conclusion inside dense paragraphs, inside a table cell, or at the end of a long bullet list
+- **MUST** make sure that anyone glancing at the slide can identify the main point without reading every word
+- **SHOULD** state the conclusion of the slide explicitly, not leave the audience to infer it from the data
+- **SHOULD** use one slide = one point — if the audience cannot tell you in one sentence what the slide said, the slide failed
+
 ## One Topic, One Slide
 
 The goal is topic cohesion — not slide minimization, not slide maximization.
@@ -70,6 +89,10 @@ When reviewing WinLab slides, check:
 - [ ] Same topic's introduction and conclusion are on the same slide (not split with repeated content)
 - [ ] No unrelated topics crammed onto one slide
 - [ ] No repeated theme across multiple slides under different headings
+- [ ] Context (background / motivation / problem) is established before details and results
+- [ ] Each slide's main takeaway is visually or structurally obvious at a glance
+- [ ] Key conclusions are not buried in dense paragraphs or long bullet lists
+- [ ] Each slide can be summarized in one sentence — one slide, one point
 - [ ] All English abbreviations have full names provided
 - [ ] Flowcharts and pipelines include step descriptions
 - [ ] Content is reorganized for presentation format (not article format)
