@@ -30,6 +30,16 @@ When reviewing slides, interpret these keywords as defined in RFC 2119:
 - **SHOULD** group related content together on the same slide or adjacent slides
 - **SHOULD** reorganize content for presentation format (presentations cannot be read like articles with back-and-forth referencing)
 
+## One Topic, One Slide
+
+The goal is topic cohesion — not slide minimization, not slide maximization.
+
+- **MUST NOT** split a single topic across multiple slides when the description and conclusion are the same content (e.g., one slide introducing topic X, another slide concluding topic X with the same points)
+- **MUST** put the introduction and conclusion of the same topic on the same slide — if they share the subject, they share the slide
+- **MUST NOT** cram unrelated topics onto one slide just to reduce slide count — fewer slides is not the goal
+- **MUST NOT** repeat the same theme across multiple slides under different headings — if it is the same topic, merge it
+- **SHOULD** treat each topic as one cohesive unit; use "(1/2)", "(2/2)" notation only when a single topic's content genuinely cannot fit on one slide, not as an excuse to restate the same idea
+
 ## Bullet Points and Lists
 
 - **MUST** make the hierarchical relationships between bullet list items clear
@@ -57,6 +67,9 @@ When reviewing WinLab slides, check:
 - [ ] Each bullet point is concise, clear, and within one line
 - [ ] Overall structure flows from high-level to detailed
 - [ ] Related content is grouped together
+- [ ] Same topic's introduction and conclusion are on the same slide (not split with repeated content)
+- [ ] No unrelated topics crammed onto one slide
+- [ ] No repeated theme across multiple slides under different headings
 - [ ] All English abbreviations have full names provided
 - [ ] Flowcharts and pipelines include step descriptions
 - [ ] Content is reorganized for presentation format (not article format)
