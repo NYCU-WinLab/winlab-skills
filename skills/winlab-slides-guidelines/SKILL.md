@@ -57,13 +57,16 @@ The goal is topic cohesion — not slide minimization, not slide maximization.
 - **MUST** put the introduction and conclusion of the same topic on the same slide — if they share the subject, they share the slide
 - **MUST NOT** cram unrelated topics onto one slide just to reduce slide count — fewer slides is not the goal
 - **MUST NOT** repeat the same theme across multiple slides under different headings — if it is the same topic, merge it
-- **SHOULD** treat each topic as one cohesive unit; use "(1/2)", "(2/2)" notation only when a single topic's content genuinely cannot fit on one slide, not as an excuse to restate the same idea
+- **SHOULD** treat each topic as one cohesive unit; use "(1/2)", "(2/2)" notation only when a single topic's content genuinely cannot fit on one slide, and the title is exactly the same, not as an excuse to restate the same idea
 
 ## Bullet Points and Lists
 
-- **MUST** make the hierarchical relationships between bullet list items clear
+- **MUST** make the hierarchical relationships between bullet list items clear by writing higher level concepts first and then lower level details
 - **SHOULD** keep each item's description concise but clear
 - **SHOULD** keep each item's text within one line (do not exceed one line per bullet point)
+- **SHOULD** indent bullet points and numbered lists if the contents are ideas covered one item
+- **SHOULD NOT** use too many pronouns like "it" and "they", especially when the target and the pronoun sits in different bullet points. Perfer writing the name of the object again
+- **SHOULD NOT** use colons, semicolons or dashes, since these punctuation marks are often used to explain a word in the same sentence. Instead, just write in a plain sentence. If colons are used, don't use "：", use ": ".
 
 ## Abbreviations and Terminology
 
@@ -73,6 +76,7 @@ The goal is topic cohesion — not slide minimization, not slide maximization.
 ## Diagrams and Process Flows
 
 - **MUST** include step descriptions for flowcharts, pipelines, and any content related to step sequences or timing
+- **MUST** align the definition of blocks and connection lines, e.g. all the blocks are functions, while all the lines presents the dataflow, and descriptions over the lines define what data being sent
 
 ## Review Checklist
 
@@ -81,7 +85,7 @@ When reviewing WinLab slides, check:
 - [ ] Each slide title clearly indicates what the slide expresses
 - [ ] All slide titles are unique (no duplicates)
 - [ ] Titles directly address the slide's main topic
-- [ ] Multi-slide content uses "(1/2)", "(2/2)" notation when needed
+- [ ] Multi-slide content uses "(1/2)", "(2/2)" notation only when needed
 - [ ] Bullet list hierarchical relationships are clear
 - [ ] Each bullet point is concise, clear, and within one line
 - [ ] Overall structure flows from high-level to detailed
@@ -96,6 +100,11 @@ When reviewing WinLab slides, check:
 - [ ] All English abbreviations have full names provided
 - [ ] Flowcharts and pipelines include step descriptions
 - [ ] Content is reorganized for presentation format (not article format)
+- [ ] Font size is larger than 20
+
+## What To Load
+
+- Read [examples.md](./examples.md), for some examples demonstrating the guidelines
 
 ## Usage
 
