@@ -57,7 +57,6 @@ The goal is topic cohesion — not slide minimization, not slide maximization.
 - **MUST** put the introduction and conclusion of the same topic on the same slide — if they share the subject, they share the slide
 - **MUST NOT** cram unrelated topics onto one slide just to reduce slide count — fewer slides is not the goal
 - **MUST NOT** repeat the same theme across multiple slides under different headings — if it is the same topic, merge it
-- **SHOULD NOT** use colons, semicolons or dashes, since these punctuation marks are often used to explain a word in the same sentence. Instead, just write in a plain sentence
 - **SHOULD** treat each topic as one cohesive unit; use "(1/2)", "(2/2)" notation only when a single topic's content genuinely cannot fit on one slide, and the title is exactly the same, not as an excuse to restate the same idea
 
 ## Bullet Points and Lists
@@ -67,6 +66,7 @@ The goal is topic cohesion — not slide minimization, not slide maximization.
 - **SHOULD** keep each item's text within one line (do not exceed one line per bullet point)
 - **SHOULD** indent bullet points and numbered lists if the contents are ideas covered one item
 - **SHOULD NOT** use too many pronouns like "it" and "they", especially when the target and the pronoun sits in different bullet points. Perfer writing the name of the object again
+- **SHOULD NOT** use colons, semicolons or dashes, since these punctuation marks are often used to explain a word in the same sentence. Instead, just write in a plain sentence. If colons are used, don't use "：", use ": ".
 
 ## Abbreviations and Terminology
 
